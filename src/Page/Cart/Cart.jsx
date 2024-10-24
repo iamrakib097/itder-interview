@@ -59,7 +59,7 @@ const Cart = () => {
                           />
                           <p className="text-[14.4px] px-[7px] text-center flex">
                             {item.course_name}{" "}
-                            <span className="hidden lg:flex">- unit name</span>
+                            <span className="hidden lg:flex"></span>
                           </p>
                         </div>
                       </div>
